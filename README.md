@@ -1,2 +1,3 @@
-# github.curse
-This is curse page
+# Георгий Дронов
+Мой первый сайт
+
